@@ -8,6 +8,8 @@ A Keras implementation of YOLOv3 (Tensorflow backend) inspired by [allanzelener/
 
 
 ---
+本仓库记录了Yolov3的训练过程
+https://blog.csdn.net/qq_39622065/article/details/86174142
 
 ## Quick Start
 
