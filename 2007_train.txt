@@ -1,0 +1,4 @@
+F:\ML_DNN\keras-Yolo3/VOCdevkit/VOC2007/JPEGImages/img_186.jpg 450,86,568,322,0
+F:\ML_DNN\keras-Yolo3/VOCdevkit/VOC2007/JPEGImages/img_253.jpg 401,105,523,312,0
+F:\ML_DNN\keras-Yolo3/VOCdevkit/VOC2007/JPEGImages/img_346.jpg 443,83,568,323,0
+F:\ML_DNN\keras-Yolo3/VOCdevkit/VOC2007/JPEGImages/img_94.jpg 526,74,640,284,0

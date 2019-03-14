@@ -1,0 +1,1 @@
+F:\ML_DNN\keras-Yolo3/VOCdevkit/VOC2007/JPEGImages/img_258.jpg 399,122,528,327,0
